@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="c04af358-aa0a-4816-9ad0-e4f23fcca755" solutionId="c04af358-aa0a-4816-9ad0-e4f23fcca755" resetWebServer="false" sharePointProductVersion="15.0" name="PortalTI.Orcamento.AP.QuadroConsolidado" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="da80f664-a0eb-4924-990f-ed42de1a4075" />
+  </projectItems>
+</package>
